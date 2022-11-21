@@ -6,18 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Biodata Diri</title>
   <link rel="icon" href="https://tse1.mm.bing.net/th?id=OIP.epVlXF6WCOu4Zv8qJNbVwgAAAA&pid=Api&P=0">
-  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class = "belajar">
-    <div class = "perkenalan">
-      <div class = "icon">
-        <h2 class = "logo">Biodata Diri</h2>
-      </div>
-    </div>
-  </div>
+  <h1>Biodata Diri</h1>
 <p>
-    Perkenalkan Nama saya <b>Jennifer Velensia Santoti</b>, saya lahir di <b>Palembang</b> 8 Juli 2004
+    Perkenalkan Nama saya <h3>Jennifer Velensia Santoti</h3>, saya lahir di <h3>Palembang</h3> 8 Juli 2004
 </p>
   <script src="./index.js">
     
